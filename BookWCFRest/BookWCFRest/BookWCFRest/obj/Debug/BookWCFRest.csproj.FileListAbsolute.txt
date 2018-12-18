@@ -1,0 +1,14 @@
+E:\project\Sem3_Microsoft\Web Service\Day2\BookWCFRest\BookWCFRest\bin\BookWCFRest.dll.config
+E:\project\Sem3_Microsoft\Web Service\Day2\BookWCFRest\BookWCFRest\bin\BookWCFRest.dll
+E:\project\Sem3_Microsoft\Web Service\Day2\BookWCFRest\BookWCFRest\bin\BookWCFRest.pdb
+E:\project\Sem3_Microsoft\Web Service\Day2\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.csprojAssemblyReference.cache
+E:\project\Sem3_Microsoft\Web Service\Day2\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.csproj.CoreCompileInputs.cache
+E:\project\Sem3_Microsoft\Web Service\Day2\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.dll
+E:\project\Sem3_Microsoft\Web Service\Day2\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.pdb
+C:\Users\Thuong Thoi\Downloads\BookWCFRest\BookWCFRest\BookWCFRest\bin\BookWCFRest.dll.config
+C:\Users\Thuong Thoi\Downloads\BookWCFRest\BookWCFRest\BookWCFRest\bin\BookWCFRest.dll
+C:\Users\Thuong Thoi\Downloads\BookWCFRest\BookWCFRest\BookWCFRest\bin\BookWCFRest.pdb
+C:\Users\Thuong Thoi\Downloads\BookWCFRest\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.csprojAssemblyReference.cache
+C:\Users\Thuong Thoi\Downloads\BookWCFRest\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.csproj.CoreCompileInputs.cache
+C:\Users\Thuong Thoi\Downloads\BookWCFRest\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.dll
+C:\Users\Thuong Thoi\Downloads\BookWCFRest\BookWCFRest\BookWCFRest\obj\Debug\BookWCFRest.pdb
